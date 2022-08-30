@@ -9,8 +9,6 @@ public class bagulho2 {
 			System.out.println(a);
 			a += 1;
 		} while (a < 5);
-		System.out.print(a);
-		System.out.println(" FIM" + "!");
-		
+		System.out.println(a);
 	}
 }
