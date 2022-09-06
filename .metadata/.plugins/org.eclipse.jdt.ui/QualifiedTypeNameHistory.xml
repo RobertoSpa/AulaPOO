@@ -4,4 +4,7 @@
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.ProcessBuilder"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="model.ContaCorrente"/>
+    <fullyQualifiedTypeName name="model.ImpostoDeRenda"/>
+    <fullyQualifiedTypeName name="model.Tributacao"/>
 </qualifiedTypeNameHistroy>
