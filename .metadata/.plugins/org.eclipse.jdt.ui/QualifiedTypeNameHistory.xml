@@ -7,4 +7,21 @@
     <fullyQualifiedTypeName name="model.ContaCorrente"/>
     <fullyQualifiedTypeName name="model.ImpostoDeRenda"/>
     <fullyQualifiedTypeName name="model.Tributacao"/>
+    <fullyQualifiedTypeName name="br.edu.senai.model.PolicialFederal"/>
+    <fullyQualifiedTypeName name="br.edu.senai.enums.MarcaTV"/>
+    <fullyQualifiedTypeName name="br.edu.senai.enums.PeriodoCurso"/>
+    <fullyQualifiedTypeName name="br.edu.senai.enums.EstadoCivil"/>
+    <fullyQualifiedTypeName name="br.edu.senai.model.Pedido"/>
+    <fullyQualifiedTypeName name="br.edu.senai.enums.Sanduiche"/>
+    <fullyQualifiedTypeName name="br.edu.senai.enums.Bebida"/>
+    <fullyQualifiedTypeName name="br.edu.senai.exercicio.AnimalCompeticao"/>
+    <fullyQualifiedTypeName name="br.edu.senai.exercicio.emGrupo.Veiculo"/>
+    <fullyQualifiedTypeName name="br.edu.senai.exercicio.emGrupo.Carro"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="br.edu.senai.exercicio.emGrupo.Proprietario"/>
+    <fullyQualifiedTypeName name="br.edu.senai.exercicio.emGrupo.TipoServico"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="javax.print.attribute.IntegerSyntax"/>
+    <fullyQualifiedTypeName name="br.edu.senai.model.Medico"/>
 </qualifiedTypeNameHistroy>
